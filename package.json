@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jun-lu/react-webpack-example.git"
+    "url": "https://github.com/gwiron/react-h5-cli.git"
   },
-  "author": "Jun.lu",
+  "author": "GW.Saohui",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-loader": "^3.2.0",
